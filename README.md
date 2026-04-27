@@ -1,2 +1,1 @@
-# Template
-Template for abapGit CI Tests
+# DTSC - Dictionary Static Cache
