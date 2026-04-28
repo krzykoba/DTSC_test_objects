@@ -1,0 +1,8 @@
+define static cache zdtsc_1 on zstve_test
+{
+  fchar,
+  flang,
+  fint1,
+  sum( fint2 )
+}
+retention 10
