@@ -1,7 +1,0 @@
-define static cache Zdtsc_1 on ZSTVE_TEST
-{
-  FChar,
-  SUM (fint1)
-}
-retention 30
-
